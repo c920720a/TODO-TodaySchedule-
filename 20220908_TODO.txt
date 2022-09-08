@@ -1,0 +1,5 @@
+[To Do List]
+* 한 주간 Review
+* 연습문제 출제 및 구글 Form 업로드
+* 깃허브 정리
+* YOLO 시작
