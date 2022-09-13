@@ -1,0 +1,3 @@
+01. Python 기본 리뷰
+02. 시각화 라이브러리 with Python
+03. YOLO 아두이노 Study (22:30)
