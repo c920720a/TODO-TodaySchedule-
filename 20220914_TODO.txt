@@ -1,0 +1,7 @@
+01. Python 기본 리뷰
+02. Python Library (matplotlib, seaborn, folium)
+03. 실습 (Titanic)
+
+[TODO]
+- github update
+- jupyter notebook 준비
