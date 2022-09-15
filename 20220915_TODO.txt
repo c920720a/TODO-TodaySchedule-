@@ -1,0 +1,5 @@
+TODO
+01. class basic review
+02. python basic review
+03. python folium local
+04. Object Detection and YOLO model study
