@@ -1,0 +1,5 @@
+2022/09/19 TODO LIST
+01. Class Code Git Updata
+02. Create PT of Object Detection Project
+03. Study Meeting(20) preview : Arduino
+04. Create New Notion page : YOLO model
