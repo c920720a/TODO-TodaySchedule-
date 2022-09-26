@@ -1,0 +1,14 @@
+2022/09/26 TODO LIST
+01. Weekly Review Code Upload
+02. Class : Ensemble
+03. Study : Play moter of Arduino
+04. Create New Notion page : YOLO model
+
+------------------------------------------------
+
+[한 주간의 학습 및 학습 목표]
+01. 실전 데이터 분석
+02. 파이썬 머신러닝
+03. 파일럿 프로그램
+
+------------------------------------------------
