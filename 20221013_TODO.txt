@@ -1,0 +1,8 @@
+2022/10/13 To do list
+
+01. Weekly Review Code Upload
+02. class code upload : DL, MNIST
+03. Study(sat 22:00) : Play moter of Arduino (moter)
+04. Create New Notion page : YOLO model
+
+------------------------------------------------
